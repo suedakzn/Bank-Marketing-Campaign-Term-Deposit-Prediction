@@ -107,6 +107,25 @@ Bankanın kampanya sürecini daha verimli hale getirmek için;
 - XGBoost (GPU destekli versiyon)
 
 ---
+## 🏁 Final Çıktılar
+
+Aşağıda projede eğittiğim modellerin doğruluk (accuracy), precision, recall ve F1-score gibi metrikler açısından karşılaştırmalı sonuçları yer almaktadır:
+
+| Model                  | Accuracy | Precision (avg) | Recall (avg) | F1-score (avg) |
+|------------------------|----------|------------------|--------------|----------------|
+| XGBoost (Tuned)        | **0.86** ✅ | **0.86**         | **0.86**     | **0.86**       |
+| Random Forest          | 0.85     | 0.86             | 0.85         | 0.85           |
+| SVM (RBF)              | 0.84     | 0.84             | 0.84         | 0.84           |
+| Logistic Regression    | 0.81     | 0.81             | 0.81         | 0.81           |
+| Decision Tree          | 0.80     | 0.80             | 0.80         | 0.80           |
+| K-Nearest Neighbors    | 0.75     | 0.75             | 0.75         | 0.75           |
+| XGBoost (GPU)          | 0.85     | 0.85             | 0.85         | 0.85           |
+
+> En yüksek başarıyı XGBoost (Tuned) modeli verdi.  
+> GPU destekli versiyon performans olarak aynıyken çok daha hızlı çalıştı.  
+> KNN gibi temel modellerin düşük performansı, bu veri setinde karmaşık ilişkilerin olduğunu gösteriyor.
+
+---
 
 ## ✅ Neden XGBoost (Tuned) Modelini Seçtim?
 
