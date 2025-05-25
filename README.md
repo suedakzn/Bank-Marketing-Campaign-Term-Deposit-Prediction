@@ -160,7 +160,7 @@ bana çok şey kattı. Makine öğrenmesiyle pazarlama stratejileri geliştirme 
 
 ## 📎 Kaggle Notebook
 
-👉 [Kaggle Notebook’a Gitmek İçin Tıklayın]([https://www.kaggle.com/YOUR-NOTEBOOK-LINK](https://www.kaggle.com/code/suedakazan/bank-deposit-prediction-subscribe-or-not))  
+👉 [Kaggle Notebook’a Gitmek İçin Tıklayın]([(https://www.kaggle.com/code/suedakazan/bank-deposit-prediction-subscribe-or-not)])  
 
 ---
 ## 🧑‍💻 Hazırlayan
