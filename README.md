@@ -156,11 +156,13 @@ KMeans ile müşteri kümeleri belirlendi ve her küme için özel pazarlama str
 
 Bu proje sadece teknik olarak değil, iş problemini anlama ve veriye dayalı stratejiler üretme açısından da  
 bana çok şey kattı. Makine öğrenmesiyle pazarlama stratejileri geliştirme fikri benim için çok değerliydi. 
+
 ---
 
-## 📎 Kaggle Notebook
+ ## 🔗 Kaggle Notebook
 
-👉 [Kaggle Notebook’a Gitmek İçin Tıklayın]([(https://www.kaggle.com/code/suedakazan/bank-deposit-prediction-subscribe-or-not)])  
+ [Kaggle üzerinde projeyi görmek için buraya tıklayabilirsiniz](https://www.kaggle.com/code/suedakazan/bank-deposit-prediction-subscribe-or-not)
+ 
 
 ---
 ## 🧑‍💻 Hazırlayan
